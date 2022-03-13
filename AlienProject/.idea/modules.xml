@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AlienProject.iml" filepath="$PROJECT_DIR$/.idea/AlienProject.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/AlienProjectNewest/.idea/AlienProjectNewest.iml" filepath="$USER_HOME$/Downloads/AlienProjectNewest/.idea/AlienProjectNewest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Assignment1/.idea/Assignment1.iml" filepath="$PROJECT_DIR$/../Assignment1/.idea/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alienProject_aliens!/.idea/alienProject_aliens!.iml" filepath="$PROJECT_DIR$/../alienProject_aliens!/.idea/alienProject_aliens!.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/alienProject_latest/.idea/alienProject_latest.iml" filepath="$USER_HOME$/Downloads/alienProject_latest/.idea/alienProject_latest.iml" />
+    </modules>
+  </component>
+</project>
