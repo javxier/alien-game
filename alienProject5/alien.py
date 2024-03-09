@@ -12,7 +12,6 @@ class AlienFleet:
     # alien_images0 = [pg.transform.rotozoom(pg.image.load(f'images/alien0{n}.bmp'), 0, 1.2) for m in range(3)]
     # alien_images1 = [pg.transform.rotozoom(pg.image.load(f'images/alien1{n}.bmp'), 0, 2) for m in range(3)]
     # alien_images2 = [pg.transform.rotozoom(pg.image.load(f'images/alien2{n}.bmp'), 0, 3) for m in range(3)]
-
     # alien_images = [alien_images0, alien_images1, alien_images2]
     
     alien_images = [[pg.transform.rotozoom(pg.image.load(f'images/alien__{m}{n}.png'), 0, 0.5) for n in range(2)] for m in range(3)]

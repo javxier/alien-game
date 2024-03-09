@@ -15,7 +15,6 @@ from sound import Sound
 class Game:
     RED = (255, 0, 0)
 
-
     def __init__(self):
         pg.init()
         self.settings = Settings()
